@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\ProjectsUL\Booking\house.h(77,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\ProjectsUL\Booking\house.h(79,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Sample-Test6.vcxproj -> E:\ProjectsUL\Booking\x64\Debug\Sample-Test6.exe
